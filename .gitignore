@@ -2,7 +2,6 @@ Cargo.lock
 target/
 .vscode/
 solutions/
-exercises/09_strings/
 exercises/10_modules/
 exercises/11_hashmaps/
 exercises/12_options/
